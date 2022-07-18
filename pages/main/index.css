@@ -1021,6 +1021,7 @@ footer {
     visibility: hidden;
     overflow-y: auto;
     overflow-x: hidden;
+    z-index: 65;
 }
 
 .popup:target {
